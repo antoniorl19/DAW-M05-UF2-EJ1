@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Nuevo cambio");
         System.out.println("Segundo cambio");
         System.out.println("Tercer cambio");
+        System.out.println("Cambio en contribuciones");
     }
 }
